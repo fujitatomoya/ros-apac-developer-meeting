@@ -7,11 +7,15 @@ Welcome to ROS Asia Pacific Developer Meeting 👋
 
 ## Motivation 👓
 
-TODO
+Please take a look at [this slid edeck](https://raw.githack.com/fujitatomoya/ros-apac-developer-meeting/main/docs/presentation/ROS_APAC_Developer_Meeting/ROS_APAC_Developer_Meeting.html).
 
 ## Goals ⛳
 
-TODO
+- Encourage technical discussion and experience sharing
+- Improve ROS quality, stability, and foster a healthy open-source ecosystem
+- Promote collaboration between industry, academia, and the community
+- Drive contributions to the ROS mainline, including documentation
+- Grow the developer and contributor base in the APAC region
 
 ## Information 📌
 
