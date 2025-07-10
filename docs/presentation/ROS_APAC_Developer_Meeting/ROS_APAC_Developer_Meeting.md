@@ -23,11 +23,9 @@ Comment here
 
 ---
 
-![bg right:30% 50%](./images/ros_japan_user_group_logo.png)
-
 # Motivation
 
-![bg right:50% 80%](./images/2024_ros_metrics_report.png)
+![bg right:30% 60%](./images/2024_ros_metrics_report.png)
 
 Please take a look at [2024 ROS Metrics Report](https://cdck-file-uploads-us1.s3.dualstack.us-west-2.amazonaws.com/flex022/uploads/ros/original/3X/3/7/37c752346eb33f4f5ebde0c513b949b15adae453.pdf) (by [Katherine Scott](https://www.linkedin.com/in/katherineascott)), the statistics as objective facts.
 
@@ -60,7 +58,7 @@ Comment here
 | <span class="red-bold">Tomoya Fujita</span> | [Marco A. Gutiérrez](https://github.com/marcoag) | [Scott Logan](https://github.com/cottsay) |
 | [Shane Loretz](https://github.com/sloretz) | [Audrow Nash](https://github.com/audrow) | [Michael Orlov](https://github.com/MichaelOrlov) |
 | [Steven! Ragnarök](https://github.com/nuclearsandwich) | [Alberto Soragna](https://github.com/alsora) | [Yadunund Vijay](https://github.com/Yadunund) |
-| [William Woodall](https://github.com/wjwwood) | []() | []() |
+| [William Woodall](https://github.com/wjwwood) | [Emerson Knapp](https://github.com/emersonknapp/) | []() |
 
 ---
 
@@ -159,21 +157,6 @@ Comment here
 - Trust needs to be earned.
 - Progress, not perfection.
 - Understanding != Agreement.
-
-<!---
-Comment here
---->
-
----
-
-![bg right:30% 70%](./images/invitation_1st_meeting.png)
-
-## 1st Meeting Information
-
-- Nov 7th 2025 20:00-20:50 (GMT+9) 
-- Please join and post the topics in the meeting note.
-- Note: Meeting schedule needs to be considered after 1st one.
-- **Invitation** 👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉
 
 <!---
 Comment here
