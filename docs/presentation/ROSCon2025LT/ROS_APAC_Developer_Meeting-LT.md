@@ -12,7 +12,6 @@ paginate: true
 
 ## [Tomoya Fujita](https://github.com/fujitatomoya) 👋
 
-- Former [ROS Technical Steering Committee](https://docs.ros.org/en/foxy/The-ROS2-Project/Governance/ROS2-TSC-Charter.html)
 - [ROS Project Management Committee](https://docs.ros.org/en/rolling/The-ROS2-Project/Governance.html#current-ros-pmc-constituents)
 - ROS 2 core committer and developer
 - OSS: Kubernetes(Edge), Container Network, and so on...
@@ -30,6 +29,14 @@ Comment here
 - Possibly thousands millions of active users 👥👥👥
 - That means way much more use cases and requirements 📝
 - There gotta be more issues / feature requests 🆕🛠️
+--->
+
+---
+
+# All you need is "YES" !!!
+
+<!---
+Comment here
 --->
 
 ---
@@ -63,7 +70,7 @@ But I would love to donate and move this repository if organization needs to be 
 
 ## 1st Meeting Information
 
-- Nov 7th 2025 20:00-20:50 (GMT+9) 
+- Nov 7th 2025 17:00-17:50 (GMT+9) 
 - Please join and post the topics in the meeting note.
 - Note: Meeting schedule needs to be considered after 1st one.
 - **Invitation** 👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉
@@ -76,9 +83,13 @@ Comment here
 
 ![bg right:30% 70%](./images/ros_apac_developer_meeting_googlegroup.png)
 
-# ROS Asia Pacific Developer 
+# ROS (maybe should) stays unfinished...
 
-<span class="red-bold">Let’s promote ROS development in Asia</span> 🥊🥊🥊
+<span class="red-bold">Let’s promote ROS development in Asia</span> 🥊
+<span class="red-bold">Let’s make the difference together</span> 💪
+
+# ROS Asia Pacific Developer Group 👉👉👉
+
 
 <!---
 Comment here
