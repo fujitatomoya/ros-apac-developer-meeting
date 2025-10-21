@@ -33,14 +33,6 @@ Comment here
 
 ---
 
-# All you need is "YES" !!!
-
-<!---
-Comment here
---->
-
----
-
 <style>
 .blue-bold {
   color: blue;
