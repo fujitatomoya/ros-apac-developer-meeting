@@ -24,6 +24,7 @@ Please take a look at [this slid edeck](https://raw.githack.com/fujitatomoya/ros
 - Who can join?: Anyone. ROS developers, engineers, students.
 - Meeting: GoogleMeet / Bi-Weekly / 50min
 - GoogleGroup: https://groups.google.com/g/ros-apac-developer-meeting
+- Zulip Channel: https://openrobotics.zulipchat.com/#narrow/channel/526027-ROS-General/topic/ROS.20Asia.20Pacific.20Developer.20Meeting/with/554263953 (Join [OpenRobotics Zulip](https://discourse.openrobotics.org/t/open-robotics-launches-zulip-chat-server/50673))
 - Github: https://github.com/fujitatomoya/ros-apac-developer-meeting
 - GoogleDocs: https://docs.google.com/document/d/1IDQILCEVtEBZUHlttxzRNjhLG7i3sWfrk0Ik4ymPQO0/edit?usp=sharing
 
